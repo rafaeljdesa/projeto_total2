@@ -1,0 +1,56 @@
+#container{  
+    width: 800px;
+    margin: 0 auto;
+}
+
+#header {
+    background-color: #4682B4;
+    height: 50px;
+    padding: 10px;
+}
+
+#header a{
+    color: #FFFFFF;
+}
+
+#main{
+   
+}
+
+#main h1{
+    text-align: center;
+}
+
+#menu{
+    width: 280px;
+    margin: 0 auto;
+}
+
+.btn-cad-cli{
+	background-image: url('../image/cliente.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+
+.btn-cad-func{
+	background-image: url('../image/funcionarios.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+
+.btn-cad-estq{
+	background-image: url('../image/estoque.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+
+
