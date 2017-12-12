@@ -1,5 +1,7 @@
 $(document).ready(function(){
 	
+	/*************Click botões homepage****************/
+
 	$("#btn-cad-cli").click(function(){
 		window.location.href = "view/cadastroCliente.php";
 	});
@@ -12,6 +14,9 @@ $(document).ready(function(){
 		window.location.href = "view/";
 	});
 
-	$("#")
+
+	/*************Máscaras formulário****************/
+		
+
 
 });
